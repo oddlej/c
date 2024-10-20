@@ -1,1 +1,1 @@
-# a place for my c and c++ code
+# A place for my C and C++ code
